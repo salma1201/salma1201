@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @salma1201
+- 👀 I’m interested in data analytics 
+- 🌱 I’m currently learning SQL , PowerBI
+- 💞️ I’m looking to collaborate on Both 
